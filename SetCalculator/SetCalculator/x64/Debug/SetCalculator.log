@@ -1,9 +1,0 @@
-﻿  main.cpp
-D:\Study\2 курс\Дискретная математика\SetCalculator\Set.h(59,22): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
-  (компиляция исходного файла "main.cpp")
-  
-D:\Study\2 курс\Дискретная математика\SetCalculator\main.cpp(33,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-D:\Study\2 курс\Дискретная математика\SetCalculator\main.cpp(313,84): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-D:\Study\2 курс\Дискретная математика\SetCalculator\main.cpp(328,100): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-D:\Study\2 курс\Дискретная математика\SetCalculator\main.cpp(329,100): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-  SetCalculator.vcxproj -> D:\Study\2 курс\Дискретная математика\SetCalculator\x64\Debug\SetCalculator.exe
