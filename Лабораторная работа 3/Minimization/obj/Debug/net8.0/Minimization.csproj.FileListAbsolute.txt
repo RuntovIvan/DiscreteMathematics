@@ -1,0 +1,15 @@
+D:\Study\2 курс\Дискретная математика\Лабораторная работа 3\Minimization\bin\Debug\net8.0\Minimization.exe
+D:\Study\2 курс\Дискретная математика\Лабораторная работа 3\Minimization\bin\Debug\net8.0\Minimization.deps.json
+D:\Study\2 курс\Дискретная математика\Лабораторная работа 3\Minimization\bin\Debug\net8.0\Minimization.runtimeconfig.json
+D:\Study\2 курс\Дискретная математика\Лабораторная работа 3\Minimization\bin\Debug\net8.0\Minimization.dll
+D:\Study\2 курс\Дискретная математика\Лабораторная работа 3\Minimization\bin\Debug\net8.0\Minimization.pdb
+D:\Study\2 курс\Дискретная математика\Лабораторная работа 3\Minimization\obj\Debug\net8.0\Minimization.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\2 курс\Дискретная математика\Лабораторная работа 3\Minimization\obj\Debug\net8.0\Minimization.AssemblyInfoInputs.cache
+D:\Study\2 курс\Дискретная математика\Лабораторная работа 3\Minimization\obj\Debug\net8.0\Minimization.AssemblyInfo.cs
+D:\Study\2 курс\Дискретная математика\Лабораторная работа 3\Minimization\obj\Debug\net8.0\Minimization.csproj.CoreCompileInputs.cache
+D:\Study\2 курс\Дискретная математика\Лабораторная работа 3\Minimization\obj\Debug\net8.0\Minimization.sourcelink.json
+D:\Study\2 курс\Дискретная математика\Лабораторная работа 3\Minimization\obj\Debug\net8.0\Minimization.dll
+D:\Study\2 курс\Дискретная математика\Лабораторная работа 3\Minimization\obj\Debug\net8.0\refint\Minimization.dll
+D:\Study\2 курс\Дискретная математика\Лабораторная работа 3\Minimization\obj\Debug\net8.0\Minimization.pdb
+D:\Study\2 курс\Дискретная математика\Лабораторная работа 3\Minimization\obj\Debug\net8.0\Minimization.genruntimeconfig.cache
+D:\Study\2 курс\Дискретная математика\Лабораторная работа 3\Minimization\obj\Debug\net8.0\ref\Minimization.dll

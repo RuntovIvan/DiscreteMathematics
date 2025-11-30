@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemCompleteness", "SystemCompleteness.csproj", "{5F571618-06D5-4106-9903-E4C9BA436155}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F571618-06D5-4106-9903-E4C9BA436155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F571618-06D5-4106-9903-E4C9BA436155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F571618-06D5-4106-9903-E4C9BA436155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F571618-06D5-4106-9903-E4C9BA436155}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C581046F-422E-49F4-B38B-436D5CE878DA}
+	EndGlobalSection
+EndGlobal
