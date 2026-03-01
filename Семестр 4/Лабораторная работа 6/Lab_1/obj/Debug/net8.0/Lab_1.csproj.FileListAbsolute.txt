@@ -1,0 +1,30 @@
+D:\Study\2 курс\Дискретная математика\Семестр 4\Lab_1\obj\Debug\net8.0\Lab_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\2 курс\Дискретная математика\Семестр 4\Lab_1\obj\Debug\net8.0\Lab_1.AssemblyInfoInputs.cache
+D:\Study\2 курс\Дискретная математика\Семестр 4\Lab_1\obj\Debug\net8.0\Lab_1.AssemblyInfo.cs
+D:\Study\2 курс\Дискретная математика\Семестр 4\Lab_1\obj\Debug\net8.0\Lab_1.csproj.CoreCompileInputs.cache
+D:\Study\2 курс\Дискретная математика\Семестр 4\Lab_1\obj\Debug\net8.0\Lab_1.sourcelink.json
+D:\Study\2 курс\Дискретная математика\Семестр 4\Lab_1\bin\Debug\net8.0\Lab_1.exe
+D:\Study\2 курс\Дискретная математика\Семестр 4\Lab_1\bin\Debug\net8.0\Lab_1.deps.json
+D:\Study\2 курс\Дискретная математика\Семестр 4\Lab_1\bin\Debug\net8.0\Lab_1.runtimeconfig.json
+D:\Study\2 курс\Дискретная математика\Семестр 4\Lab_1\bin\Debug\net8.0\Lab_1.dll
+D:\Study\2 курс\Дискретная математика\Семестр 4\Lab_1\bin\Debug\net8.0\Lab_1.pdb
+D:\Study\2 курс\Дискретная математика\Семестр 4\Lab_1\obj\Debug\net8.0\Lab_1.dll
+D:\Study\2 курс\Дискретная математика\Семестр 4\Lab_1\obj\Debug\net8.0\refint\Lab_1.dll
+D:\Study\2 курс\Дискретная математика\Семестр 4\Lab_1\obj\Debug\net8.0\Lab_1.pdb
+D:\Study\2 курс\Дискретная математика\Семестр 4\Lab_1\obj\Debug\net8.0\Lab_1.genruntimeconfig.cache
+D:\Study\2 курс\Дискретная математика\Семестр 4\Lab_1\obj\Debug\net8.0\ref\Lab_1.dll
+D:\Study\2 курс\Дискретная математика\Семестр 4\Лабораторная работа 1\Lab_1\bin\Debug\net8.0\Lab_1.exe
+D:\Study\2 курс\Дискретная математика\Семестр 4\Лабораторная работа 1\Lab_1\bin\Debug\net8.0\Lab_1.deps.json
+D:\Study\2 курс\Дискретная математика\Семестр 4\Лабораторная работа 1\Lab_1\bin\Debug\net8.0\Lab_1.runtimeconfig.json
+D:\Study\2 курс\Дискретная математика\Семестр 4\Лабораторная работа 1\Lab_1\bin\Debug\net8.0\Lab_1.dll
+D:\Study\2 курс\Дискретная математика\Семестр 4\Лабораторная работа 1\Lab_1\bin\Debug\net8.0\Lab_1.pdb
+D:\Study\2 курс\Дискретная математика\Семестр 4\Лабораторная работа 1\Lab_1\obj\Debug\net8.0\Lab_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\2 курс\Дискретная математика\Семестр 4\Лабораторная работа 1\Lab_1\obj\Debug\net8.0\Lab_1.AssemblyInfoInputs.cache
+D:\Study\2 курс\Дискретная математика\Семестр 4\Лабораторная работа 1\Lab_1\obj\Debug\net8.0\Lab_1.AssemblyInfo.cs
+D:\Study\2 курс\Дискретная математика\Семестр 4\Лабораторная работа 1\Lab_1\obj\Debug\net8.0\Lab_1.csproj.CoreCompileInputs.cache
+D:\Study\2 курс\Дискретная математика\Семестр 4\Лабораторная работа 1\Lab_1\obj\Debug\net8.0\Lab_1.sourcelink.json
+D:\Study\2 курс\Дискретная математика\Семестр 4\Лабораторная работа 1\Lab_1\obj\Debug\net8.0\Lab_1.dll
+D:\Study\2 курс\Дискретная математика\Семестр 4\Лабораторная работа 1\Lab_1\obj\Debug\net8.0\refint\Lab_1.dll
+D:\Study\2 курс\Дискретная математика\Семестр 4\Лабораторная работа 1\Lab_1\obj\Debug\net8.0\Lab_1.pdb
+D:\Study\2 курс\Дискретная математика\Семестр 4\Лабораторная работа 1\Lab_1\obj\Debug\net8.0\Lab_1.genruntimeconfig.cache
+D:\Study\2 курс\Дискретная математика\Семестр 4\Лабораторная работа 1\Lab_1\obj\Debug\net8.0\ref\Lab_1.dll
