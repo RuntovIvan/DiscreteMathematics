@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Study\\2 курс\\Дискретная математика\\Семестр 4\\Лабораторная работа 2\\Lab_2_ostov\\Lab_2_ostov.csproj": {}
+    "D:\\Study\\2 курс\\Дискретная математика\\Семестр 4\\Лабораторная работа 7\\Lab_2_ostov\\Lab_2_ostov.csproj": {}
   },
   "projects": {
-    "D:\\Study\\2 курс\\Дискретная математика\\Семестр 4\\Лабораторная работа 2\\Lab_2_ostov\\Lab_2_ostov.csproj": {
+    "D:\\Study\\2 курс\\Дискретная математика\\Семестр 4\\Лабораторная работа 7\\Lab_2_ostov\\Lab_2_ostov.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Study\\2 курс\\Дискретная математика\\Семестр 4\\Лабораторная работа 2\\Lab_2_ostov\\Lab_2_ostov.csproj",
+        "projectUniqueName": "D:\\Study\\2 курс\\Дискретная математика\\Семестр 4\\Лабораторная работа 7\\Lab_2_ostov\\Lab_2_ostov.csproj",
         "projectName": "Lab_2_ostov",
-        "projectPath": "D:\\Study\\2 курс\\Дискретная математика\\Семестр 4\\Лабораторная работа 2\\Lab_2_ostov\\Lab_2_ostov.csproj",
+        "projectPath": "D:\\Study\\2 курс\\Дискретная математика\\Семестр 4\\Лабораторная работа 7\\Lab_2_ostov\\Lab_2_ostov.csproj",
         "packagesPath": "C:\\Users\\Иван\\.nuget\\packages\\",
-        "outputPath": "D:\\Study\\2 курс\\Дискретная математика\\Семестр 4\\Лабораторная работа 2\\Lab_2_ostov\\obj\\",
+        "outputPath": "D:\\Study\\2 курс\\Дискретная математика\\Семестр 4\\Лабораторная работа 7\\Lab_2_ostov\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

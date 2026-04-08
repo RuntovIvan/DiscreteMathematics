@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Study\\2 курс\\Дискретная математика\\Семестр 4\\Лабораторная работа 1\\Lab_1\\Lab_1.csproj",
+      "projectUniqueName": "D:\\Study\\2 курс\\Дискретная математика\\Семестр 4\\Лабораторная работа 6\\Lab_1\\Lab_1.csproj",
       "projectName": "Lab_1",
-      "projectPath": "D:\\Study\\2 курс\\Дискретная математика\\Семестр 4\\Лабораторная работа 1\\Lab_1\\Lab_1.csproj",
+      "projectPath": "D:\\Study\\2 курс\\Дискретная математика\\Семестр 4\\Лабораторная работа 6\\Lab_1\\Lab_1.csproj",
       "packagesPath": "C:\\Users\\Иван\\.nuget\\packages\\",
-      "outputPath": "D:\\Study\\2 курс\\Дискретная математика\\Семестр 4\\Лабораторная работа 1\\Lab_1\\obj\\",
+      "outputPath": "D:\\Study\\2 курс\\Дискретная математика\\Семестр 4\\Лабораторная работа 6\\Lab_1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

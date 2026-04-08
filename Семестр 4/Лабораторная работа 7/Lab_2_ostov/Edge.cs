@@ -5,14 +5,31 @@
         public int Start { get; set; }
         public int End { get; set; }
         public int Weight { get; set; }
-        public bool IsAdded { get; set; }
 
         public Edge(int start, int end, int weight)
         {
             Start = start;
             End = end;
             Weight = weight;
-            IsAdded = false;
+        }
+
+        public override string ToString()
+        {
+            return $"({Start + 1}, {End + 1}): {Weight}";
+        }
+
+        public override bool Equals(object? obj)
+        {
+            if (obj is Edge edge)
+            {
+                return Start == edge.Start && End == edge.End && Weight == edge.Weight;
+            }
+            return false;
+        }
+
+        public override int GetHashCode()
+        {
+            return Start + End + Weight;
         }
     }
 }
